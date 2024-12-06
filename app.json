@@ -58,8 +58,8 @@
       "value": ""
     },
     "STATUS_READ_MSG": {
-      "description": "enter your status reply message",
-      "required": false,
+      "description": "*`||SITHU-MD-BOT`*",
+      "required": true,
       "value": ""
     },
     "PREFIX": {
